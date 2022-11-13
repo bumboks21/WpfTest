@@ -1,0 +1,16 @@
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\bin\Debug\WpfTestUnit.exe.config
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\bin\Debug\WpfTestUnit.exe
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\bin\Debug\WpfTestUnit.pdb
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit.csproj.SuggestedBindingRedirects.cache
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\MainWindow.g.cs
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\App.g.cs
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit_MarkupCompile.cache
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit_MarkupCompile.lref
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\MainWindow.baml
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit.g.resources
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit.Properties.Resources.resources
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit.exe
+C:\Users\пк\source\repos\WpfTestUnit\WpfTestUnit\obj\Debug\WpfTestUnit.pdb
